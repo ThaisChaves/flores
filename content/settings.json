@@ -1,23 +1,23 @@
 {
-  "store_id": 1117,
-  "name": "Flowers",
   "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "Flowers",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#f89fa8",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "lux",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Flowers",
+  "short_name": "Flowers",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#fed7d0",
+  "icon": "/img/uploads/favicon.png",
+  "store_id": 1117,
+  "description": "My PWA Shop",
+  "large_icon": "/img/uploads/favicon.png"
 }
