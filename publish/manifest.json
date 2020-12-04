@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f5d068153490bd0548a4f2bb614829d8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fd5450f77309a9960f3336adce89650b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.182fee4527b609f3328d38fe32de484a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.cac90e98361a344741ee22e337070e66.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.88c74686a2ecb5083c3ef786c078e56b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Flowers",
+  "short_name": "Flowers",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "My PWA Shop",
+  "background_color": "#ffffff",
+  "theme_color": "#f89fa8"
+}
